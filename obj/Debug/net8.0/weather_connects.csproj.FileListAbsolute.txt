@@ -1,0 +1,17 @@
+/mnt/c/Users/evita/Documents/_Programming/weather_connects/bin/Debug/net8.0/weather_connects
+/mnt/c/Users/evita/Documents/_Programming/weather_connects/bin/Debug/net8.0/weather_connects.deps.json
+/mnt/c/Users/evita/Documents/_Programming/weather_connects/bin/Debug/net8.0/weather_connects.runtimeconfig.json
+/mnt/c/Users/evita/Documents/_Programming/weather_connects/bin/Debug/net8.0/weather_connects.dll
+/mnt/c/Users/evita/Documents/_Programming/weather_connects/bin/Debug/net8.0/weather_connects.pdb
+/mnt/c/Users/evita/Documents/_Programming/weather_connects/obj/Debug/net8.0/weather_connects.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/evita/Documents/_Programming/weather_connects/obj/Debug/net8.0/weather_connects.AssemblyInfoInputs.cache
+/mnt/c/Users/evita/Documents/_Programming/weather_connects/obj/Debug/net8.0/weather_connects.AssemblyInfo.cs
+/mnt/c/Users/evita/Documents/_Programming/weather_connects/obj/Debug/net8.0/weather_connects.csproj.CoreCompileInputs.cache
+/mnt/c/Users/evita/Documents/_Programming/weather_connects/obj/Debug/net8.0/weather_connects.dll
+/mnt/c/Users/evita/Documents/_Programming/weather_connects/obj/Debug/net8.0/refint/weather_connects.dll
+/mnt/c/Users/evita/Documents/_Programming/weather_connects/obj/Debug/net8.0/weather_connects.pdb
+/mnt/c/Users/evita/Documents/_Programming/weather_connects/obj/Debug/net8.0/weather_connects.genruntimeconfig.cache
+/mnt/c/Users/evita/Documents/_Programming/weather_connects/obj/Debug/net8.0/ref/weather_connects.dll
+/mnt/c/Users/evita/Documents/_Programming/weather_connects/bin/Debug/net8.0/OpenMeteo.dll
+/mnt/c/Users/evita/Documents/_Programming/weather_connects/obj/Debug/net8.0/weather_connects.csproj.AssemblyReference.cache
+/mnt/c/Users/evita/Documents/_Programming/weather_connects/obj/Debug/net8.0/weather_.3F80E947.Up2Date

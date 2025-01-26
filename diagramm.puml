@@ -1,0 +1,32 @@
+@startuml diagramm
+skinparam classBackgroundColor LightBlue
+package "API" {
+    class WeatherClient {
+        -EstablishClient(): OpenMeteo 
+    }
+}
+
+package "Weather" {
+
+
+    class Car {
+        -model: String
+        -speed: int
+        +start(): void
+        +stop(): void
+    }
+
+    class another {
+        #serialNumber : int
+        +start(): bool
+    }
+}
+
+package "Location" {
+    class getLocation {
+
+    }
+}
+
+another --> car
+@enduml
