@@ -205,19 +205,19 @@
     ]
   },
   "packageFolders": {
-    "/home/evitasima/.nuget/packages/": {}
+    "C:\\Users\\evita\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/mnt/c/Users/evita/Documents/_Programming/weather_connects/weather_connects.csproj",
+      "projectUniqueName": "C:\\Users\\evita\\Documents\\_Programming\\weather_connects\\weather_connects.csproj",
       "projectName": "weather_connects",
-      "projectPath": "/mnt/c/Users/evita/Documents/_Programming/weather_connects/weather_connects.csproj",
-      "packagesPath": "/home/evitasima/.nuget/packages/",
-      "outputPath": "/mnt/c/Users/evita/Documents/_Programming/weather_connects/obj/",
+      "projectPath": "C:\\Users\\evita\\Documents\\_Programming\\weather_connects\\weather_connects.csproj",
+      "packagesPath": "C:\\Users\\evita\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\evita\\Documents\\_Programming\\weather_connects\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/evitasima/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\evita\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -240,7 +240,8 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      }
+      },
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net8.0": {
@@ -265,15 +266,19 @@
         "downloadDependencies": [
           {
             "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[8.0.12, 8.0.12]"
+            "version": "[8.0.13, 8.0.13]"
           },
           {
-            "name": "Microsoft.NETCore.App.Host.linux-x64",
-            "version": "[8.0.12, 8.0.12]"
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[8.0.13, 8.0.13]"
           },
           {
             "name": "Microsoft.NETCore.App.Ref",
-            "version": "[8.0.12, 8.0.12]"
+            "version": "[8.0.13, 8.0.13]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[8.0.13, 8.0.13]"
           }
         ],
         "frameworkReferences": {
@@ -281,7 +286,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.405/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

@@ -15,3 +15,4 @@
 /mnt/c/Users/evita/Documents/_Programming/weather_connects/bin/Debug/net8.0/OpenMeteo.dll
 /mnt/c/Users/evita/Documents/_Programming/weather_connects/obj/Debug/net8.0/weather_connects.csproj.AssemblyReference.cache
 /mnt/c/Users/evita/Documents/_Programming/weather_connects/obj/Debug/net8.0/weather_.3F80E947.Up2Date
+/mnt/c/Users/evita/Documents/_Programming/weather_connects/obj/Debug/net8.0/weather_connects.sourcelink.json
